@@ -5,3 +5,5 @@
 The vector is assisgned to the value of assignment2. But, when the calculation is ran in the myMean function, it calls for the value of assignment not assignment2. So, R doesn't recognize the variable called because it hasn't been defined yet. Also, someData has also not been defined. The mean of a vector is the sum of all values divided by the number of values or the length of the vector. So, changing sum and length to look at the assignment2 variable will solve the error message and output the correct answer. 
 
 ![7CFC873E-7A28-4859-8C71-20022EB6CD62_4_5005_c](https://github.com/user-attachments/assets/49fb2e98-deb7-4acd-b6a8-8100c59e0df4)
+
+Blog link: https://www.blogger.com/blog/post/edit/preview/7475108595858287452/4589619526140899103
